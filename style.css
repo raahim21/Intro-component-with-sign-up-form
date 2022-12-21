@@ -6,7 +6,7 @@
 
 body{
     background-color: hsl(0, 100%, 74%);
-    background-image: url("images/bg-intro-desktop.png");
+    background-image: url("bg-intro-desktop.png");
     display: flex;
     justify-content: center;
     align-items: center;
@@ -60,7 +60,7 @@ body{
 
 .container{
     background-color: hsl(0, 100%, 74%);
-    background-image: url("images/bg-intro-desktop.png");
+    background-image: url("bg-intro-desktop.png");
     display: flex;
     height: 700px;
     width: 1200px;
